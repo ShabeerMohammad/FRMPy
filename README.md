@@ -1,1 +1,1 @@
-To Detect Whether a Person Wore a Mask Or a Person is Without Mask
+# To Detect Whether a Person Wore a Face Mask Or Not
