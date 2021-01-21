@@ -21,7 +21,7 @@ modelMaskPath = './mod_FaceID/Models/mask_recog_ver4.h5'
 DATA_FACE_PATH = 'UserFaceIDs'
 TRAI_EXT = 'UserFaceIDs.pkl'
 FACE_RECOG_TOLERANCE = 0.60
-UNKNOWN_USER_ID = 'Desconocido'
+UNKNOWN_USER_ID = 'Unknown'
 
 print('cascPath: ',cascPath)
 faceCascade = cv2.CascadeClassifier(cascPath)
